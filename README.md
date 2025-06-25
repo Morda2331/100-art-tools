@@ -1,7 +1,7 @@
-<details>
-<summary>Нажми, чтобы раскрыть шаблон README.md</summary>
+<p align="center">
+  <img src="./banner.png" alt="100 Art Tools banner" />
+</p>
 
-```md
 # 🎨 100 Art Tools
 
 Подборка лучших сайтов, инструментов и ресурсов для художников, дизайнеров и digital-креаторов.
@@ -23,3 +23,7 @@ A curated collection of tools, websites, and inspiration sources for artists, de
 Если подборка оказалась полезной — поставь звёздочку и делись с друзьями!
 
 If this repo helped you, feel free to give it a ⭐ and share with others.
+
+---
+
+<p align="center"><sub>by Morda2331</sub></p>
